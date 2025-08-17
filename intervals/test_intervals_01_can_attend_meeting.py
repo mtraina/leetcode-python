@@ -1,6 +1,6 @@
 
 import pytest
-from can_attend_meeting import Solution
+from intervals_01_can_attend_meeting import Solution
 
 solution = Solution()
 
